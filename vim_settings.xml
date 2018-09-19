@@ -1,0 +1,405 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/ProtoStudio/Classes/View/Src/KeyEvent.cpp" timestamp="1537253669909">
+        <mark key="'" line="90" column="23" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/ProtoStudio/Classes/ViewControl/Src/EditableTextField.cpp" timestamp="1537253036325">
+        <mark key="'" line="238" column="4" />
+        <mark key="[" line="55" column="68" />
+        <mark key="]" line="55" column="1" />
+        <mark key="^" line="55" column="1" />
+        <mark key="." line="55" column="1" />
+      </file>
+      <file name="/a.dummy" timestamp="1537257984279">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/ProtoStudio/Classes/AudioOperators/Src/DelayFilterOperator.cpp" timestamp="1535479415375">
+        <mark key="[" line="212" column="0" />
+      </file>
+      <file name="$USER_HOME$/ProtoStudio/Classes/View/Src_OSX/OSXOpenGLView.mm" timestamp="1537257967013">
+        <mark key="]" line="290" column="0" />
+        <mark key="^" line="290" column="0" />
+        <mark key="." line="290" column="0" />
+      </file>
+      <file name="$USER_HOME$/ProtoStudio/Classes/ViewControl/Src/Slider.cpp" timestamp="1535472191012">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/ProtoStudio/Classes/ViewControl/Exp/EditableTextField.h" timestamp="1537253455667">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/ProtoStudio/Classes/ViewPlot/Src/PlotterView.cpp" timestamp="1535470683017">
+        <mark key="[" line="602" column="18" />
+        <mark key="]" line="602" column="20" />
+        <mark key="^" line="602" column="20" />
+        <mark key="." line="602" column="20" />
+      </file>
+      <file name="$USER_HOME$/ProtoStudio/Classes/AudioEffects/Src/StereoDelayProcessorBase.cpp" timestamp="1535478523986">
+        <mark key="[" line="204" column="34" />
+      </file>
+      <file name="$USER_HOME$/ProtoStudio/Classes/Base/Exp/BaseDefine.h" timestamp="1535642235377">
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/ProtoStudio/Classes/ViewAudioSequencer/Src/SequencerPatternLaneEditor.cpp" timestamp="1537353150383">
+        <mark key="[" line="2098" column="72" />
+        <mark key="]" line="2098" column="0" />
+        <mark key="^" line="2098" column="0" />
+        <mark key="." line="2098" column="0" />
+      </file>
+      <file name="$USER_HOME$/ProtoStudio/Classes/View/Exp/View.h" timestamp="1535472273093">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="629" column="2" />
+        <mark key="]" line="629" column="7" />
+        <mark key="." line="629" column="7" />
+        <mark key="^" line="629" column="7" />
+      </file>
+      <file name="$USER_HOME$/ProtoStudio/Classes/ViewControl/Src/EditableTextFieldImpl.cpp" timestamp="1537253515209">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/ProtoStudio/Classes/View/Src_OSX/OSXViewManager.mm" timestamp="1535642247853">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/ProtoStudio/CMakeLists.txt" timestamp="1537252701892">
+        <mark key="[" line="18" column="67" />
+        <mark key="]" line="18" column="7" />
+        <mark key="^" line="18" column="7" />
+        <mark key="." line="18" column="7" />
+      </file>
+      <file name="$USER_HOME$/ProtoStudio/Classes/View/Src_SDL2/SDL2ViewManager.cpp" timestamp="1537256833750">
+        <mark key="'" line="58" column="7" />
+        <mark key="[" line="542" column="43" />
+        <mark key="]" line="542" column="42" />
+        <mark key="." line="542" column="42" />
+        <mark key="^" line="542" column="42" />
+      </file>
+      <file name="$USER_HOME$/ProtoStudio/Classes/View/Src/TapGestureHandler.cpp" timestamp="1535297375081">
+        <mark key="'" line="130" column="52" />
+        <mark key="[" line="223" column="4" />
+        <mark key="]" line="223" column="5" />
+        <mark key="." line="223" column="5" />
+        <mark key="^" line="223" column="5" />
+      </file>
+      <file name="/GDB" timestamp="1537036618157">
+        <mark key="p" line="0" column="21" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="20" />
+        <mark key="^" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1535292598248">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/ProtoStudio/Classes/View/Exp/KeyEvent.h" timestamp="1537108010945">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="6" />
+        <mark key="^" line="28" column="6" />
+        <mark key="." line="28" column="6" />
+      </file>
+      <file name="$USER_HOME$/ProtoStudio/Classes/ViewControl/Src/TwoValueSlider.cpp" timestamp="1535472686916">
+        <mark key="'" line="73" column="29" />
+        <mark key="[" line="125" column="49" />
+        <mark key="]" line="126" column="13" />
+        <mark key="^" line="126" column="13" />
+        <mark key="." line="126" column="13" />
+      </file>
+      <file name="$USER_HOME$/ProtoStudio/Classes/View/Src/View.cpp" timestamp="1535472288302">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="3179" column="0" />
+        <mark key="]" line="3179" column="13" />
+        <mark key="." line="3179" column="13" />
+        <mark key="^" line="3179" column="13" />
+      </file>
+      <file name="$USER_HOME$/ProtoStudio/Classes/ViewAudio/Src/TransferFunctionPlotterView.cpp" timestamp="1535472736359">
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
+        <mark key="^" line="106" column="0" />
+      </file>
+      <file name="$USER_HOME$/ProtoStudio/Classes/View/Src/ViewManager.cpp" timestamp="1537034591441">
+        <mark key="'" line="1210" column="0" />
+      </file>
+      <file name="$USER_HOME$/ProtoStudio/Classes/ViewControl/Exp/Slider.h" timestamp="1535471847832">
+        <mark key="[" line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/ProtoStudio/Classes/ViewControl/Exp/TwoValueSlider.h" timestamp="1535472611730">
+        <mark key="'" line="44" column="43" />
+        <mark key="[" line="44" column="3" />
+        <mark key="]" line="43" column="9" />
+        <mark key="." line="43" column="9" />
+        <mark key="^" line="43" column="9" />
+      </file>
+      <file name="$USER_HOME$/ProtoStudio/Classes/View/Src_SDL2/SDL2ViewManager.h" timestamp="1535642823767">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="41" />
+        <mark key="." line="53" column="40" />
+        <mark key="^" line="53" column="40" />
+      </file>
+      <file name="$USER_HOME$/ProtoStudio/Classes/View/Src/Scrollbar.cpp" timestamp="1535466833101">
+        <mark key="'" line="37" column="7" />
+      </file>
+      <file name="$USER_HOME$/ProtoStudio/Classes/View/Src/ScrollingView.cpp" timestamp="1535466813625">
+        <mark key="'" line="23" column="7" />
+        <mark key="[" line="149" column="64" />
+        <mark key="]" line="149" column="0" />
+        <mark key="^" line="149" column="0" />
+        <mark key="." line="149" column="0" />
+      </file>
+      <file name="$USER_HOME$/ProtoStudio/Classes/AudioModules/Src/DelayLine.cpp" timestamp="1535479023503">
+        <mark key="[" line="193" column="0" />
+        <mark key="]" line="193" column="0" />
+        <mark key="." line="193" column="0" />
+      </file>
+      <file name="$USER_HOME$/ProtoStudio/Classes/View/Src/TextField.cpp" timestamp="1537252979327">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="3" />
+        <mark key="^" line="0" column="3" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="34" column="6" filename="$USER_HOME$/ProtoStudio/Classes/View/Src/TapGestureHandler.cpp" />
+      <jump line="36" column="19" filename="$USER_HOME$/ProtoStudio/Classes/View/Src/TapGestureHandler.cpp" />
+      <jump line="55" column="3" filename="$USER_HOME$/ProtoStudio/Classes/View/Src/TapGestureHandler.cpp" />
+      <jump line="78" column="5" filename="$USER_HOME$/ProtoStudio/Classes/View/Src/TapGestureHandler.cpp" />
+      <jump line="173" column="16" filename="$USER_HOME$/ProtoStudio/Classes/View/Src/TapGestureHandler.cpp" />
+      <jump line="88" column="0" filename="$USER_HOME$/ProtoStudio/Classes/View/Src/TapGestureHandler.cpp" />
+      <jump line="115" column="29" filename="$USER_HOME$/ProtoStudio/Classes/View/Src/TapGestureHandler.cpp" />
+      <jump line="121" column="52" filename="$USER_HOME$/ProtoStudio/Classes/View/Src/TapGestureHandler.cpp" />
+      <jump line="169" column="0" filename="$USER_HOME$/ProtoStudio/Classes/View/Src_SDL2/SDL2ViewManager.cpp" />
+      <jump line="175" column="17" filename="$USER_HOME$/ProtoStudio/Classes/View/Src_OSX/OSXOpenGLView.mm" />
+      <jump line="198" column="13" filename="$USER_HOME$/ProtoStudio/Classes/View/Src_SDL2/SDL2ViewManager.cpp" />
+      <jump line="263" column="4" filename="$USER_HOME$/ProtoStudio/Classes/View/Src_OSX/OSXOpenGLView.mm" />
+      <jump line="30" column="6" filename="$USER_HOME$/ProtoStudio/Classes/View/Src_OSX/OSXOpenGLView.mm" />
+      <jump line="54" column="2" filename="$USER_HOME$/ProtoStudio/Classes/View/Src_OSX/OSXOpenGLView.mm" />
+      <jump line="342" column="22" filename="$USER_HOME$/ProtoStudio/Classes/View/Src_SDL2/SDL2ViewManager.cpp" />
+      <jump line="50" column="6" filename="$USER_HOME$/ProtoStudio/Classes/Application/Src_SDL2/main.cpp" />
+      <jump line="23" column="7" filename="$USER_HOME$/ProtoStudio/Classes/View/Src/ScrollingView.cpp" />
+      <jump line="37" column="7" filename="$USER_HOME$/ProtoStudio/Classes/View/Src/Scrollbar.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/ProtoStudio/Classes/View/Src/ViewManager.cpp" />
+      <jump line="231" column="66" filename="$USER_HOME$/ProtoStudio/Classes/View/Src/ViewManager.cpp" />
+      <jump line="234" column="68" filename="$USER_HOME$/ProtoStudio/Classes/View/Src/ViewManager.cpp" />
+      <jump line="73" column="29" filename="$USER_HOME$/ProtoStudio/Classes/ViewControl/Src/TwoValueSlider.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/ProtoStudio/Classes/View/Src/View.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/ProtoStudio/Classes/View/Exp/View.h" />
+      <jump line="44" column="43" filename="$USER_HOME$/ProtoStudio/Classes/ViewControl/Exp/TwoValueSlider.h" />
+      <jump line="0" column="0" filename="$USER_HOME$/ProtoStudio/Classes/View/Src_OSX/OSXViewManager.mm" />
+      <jump line="246" column="0" filename="$USER_HOME$/ProtoStudio/Classes/View/Src_SDL2/SDL2ViewManager.cpp" />
+      <jump line="329" column="23" filename="$USER_HOME$/ProtoStudio/Classes/View/Src/ViewManager.cpp" />
+      <jump line="568" column="26" filename="$USER_HOME$/ProtoStudio/Classes/View/Src/ViewManager.cpp" />
+      <jump line="576" column="12" filename="$USER_HOME$/ProtoStudio/Classes/View/Src/ViewManager.cpp" />
+      <jump line="50" column="7" filename="$USER_HOME$/ProtoStudio/Classes/View/Src_SDL2/SDL2ViewManager.cpp" />
+      <jump line="217" column="4" filename="$USER_HOME$/ProtoStudio/Classes/View/Src_SDL2/SDL2ViewManager.cpp" />
+      <jump line="226" column="2" filename="$USER_HOME$/ProtoStudio/Classes/View/Src_SDL2/SDL2ViewManager.cpp" />
+      <jump line="242" column="4" filename="$USER_HOME$/ProtoStudio/Classes/View/Src_SDL2/SDL2ViewManager.cpp" />
+      <jump line="56" column="7" filename="$USER_HOME$/ProtoStudio/Classes/View/Src_SDL2/SDL2ViewManager.cpp" />
+      <jump line="609" column="3" filename="$USER_HOME$/ProtoStudio/Classes/View/Src/ViewManager.cpp" />
+      <jump line="1210" column="0" filename="$USER_HOME$/ProtoStudio/Classes/View/Src/ViewManager.cpp" />
+      <jump line="232" column="1" filename="$USER_HOME$/ProtoStudio/Classes/ViewControl/Src/EditableTextField.cpp" />
+      <jump line="178" column="4" filename="$USER_HOME$/ProtoStudio/Classes/ViewControl/Src/EditableTextField.cpp" />
+      <jump line="190" column="4" filename="$USER_HOME$/ProtoStudio/Classes/ViewControl/Src/EditableTextField.cpp" />
+      <jump line="238" column="4" filename="$USER_HOME$/ProtoStudio/Classes/ViewControl/Src/EditableTextField.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/ProtoStudio/Classes/ViewControl/Exp/EditableTextField.h" />
+      <jump line="0" column="0" filename="$USER_HOME$/ProtoStudio/Classes/ViewControl/Src/EditableTextFieldImpl.cpp" />
+      <jump line="10" column="0" filename="$USER_HOME$/ProtoStudio/Classes/View/Src/KeyEvent.cpp" />
+      <jump line="16" column="28" filename="$USER_HOME$/ProtoStudio/Classes/View/Src/KeyEvent.cpp" />
+      <jump line="58" column="25" filename="$USER_HOME$/ProtoStudio/Classes/View/Src/KeyEvent.cpp" />
+      <jump line="66" column="23" filename="$USER_HOME$/ProtoStudio/Classes/View/Src/KeyEvent.cpp" />
+      <jump line="74" column="23" filename="$USER_HOME$/ProtoStudio/Classes/View/Src/KeyEvent.cpp" />
+      <jump line="82" column="23" filename="$USER_HOME$/ProtoStudio/Classes/View/Src/KeyEvent.cpp" />
+      <jump line="90" column="23" filename="$USER_HOME$/ProtoStudio/Classes/View/Src/KeyEvent.cpp" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>/</text>
+      </register>
+      <register name="-" type="4">
+        <text>/</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxLS2V5TW9kaWZpZXJGdW5jdGlvblw+</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">ICB2aXJ0dWFsIHZvaWQgUHVzaE1vdXNlQ3Vyc29yKFRDdXJzb3JUeXBlIGFDdXJzb3JUeXBlKSBvdmVycmlkZTsKICB2aXJ0dWFsIHZvaWQgUG9wTW91c2VDdXJzb3IoKSBvdmVycmlkZTsK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICBzdGF0aWMgVFUzMiBLZXlNb2RpZmllckZsYWdzRm9yU2RsRXZlbnQoY29uc3QgU0RMX0V2ZW50JiBldmVudCkK</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">ICBUVTMyIEtleU1vZGlmaWVyRmxhZ3NGb3JTZGxFdmVudChjb25zdCBTRExfRXZlbnQmIGV2ZW50KQogIHsKICAgIFRVMzIgc2RsX21vZCA9IGV2ZW50LmtleS5rZXlzeW0ubW9kOwogICAgVFUzMiBNb2RpZmllck1hc2t7VEtleUV2ZW50OjpLS2V5TW9kaWZpZXJOb25lfTsKCiAgICBpZiAoc2RsX21vZCAmIEtNT0RfU0hJRlQpCiAgICB7CiAgICAgIE1vZGlmaWVyTWFzayB8PSBUS2V5RXZlbnQ6OktLZXlNb2RpZmllclNoaWZ0OwogICAgfQoKICAgIGlmIChzZGxfbW9kICYgS01PRF9DVFJMKQogICAgewogICAgICBNb2RpZmllck1hc2sgfD0gVEtleUV2ZW50OjpLS2V5TW9kaWZpZXJDb250cm9sOwogICAgfQoKICAgIGlmIChzZGxfbW9kICYgS01PRF9BTFQpCiAgICB7CiAgICAgIE1vZGlmaWVyTWFzayB8PSBUS2V5RXZlbnQ6OktLZXlNb2RpZmllckFsdGVybmF0ZTsKICAgIH0KCiAgICBpZiAoc2RsX21vZCAmIEtNT0RfR1VJKQogICAgewogICAgICBNb2RpZmllck1hc2sgfD0gVEtleUV2ZW50OjpLS2V5TW9kaWZpZXJDb21tYW5kOwogICAgfQoKICAgIGlmIChzZGxfbW9kICYgS01PRF9DQVBTKQogICAgewogICAgICBNb2RpZmllck1hc2sgfD0gVEtleUV2ZW50OjpLS2V5TW9kaWZpZXJDYXBzTG9jazsKICAgIH0KICB9</text>
+      </register>
+      <register name="3" type="4">
+        <text>enum TFunctionKeyCodes
+{
+  KUpArrowKey = 0xF700,
+  KDownArrowKey = 0xF701,
+  KLeftArrowKey = 0xF702,
+  KRightArrowKey = 0xF703,
+  KF1Key = 0xF704,
+  KF2Key = 0xF705,
+  KF3Key = 0xF706,
+  KF4Key = 0xF707,
+  KF5Key = 0xF708,
+  KF6Key = 0xF709,
+  KF7Key = 0xF70A,
+  KF8Key = 0xF70B,
+  KF9Key = 0xF70C,
+  KF10Key = 0xF70D,
+  KF11Key = 0xF70E,
+  KF12Key = 0xF70F,
+  KF13Key = 0xF710,
+  KF14Key = 0xF711,
+  KF15Key = 0xF712,
+  KF16Key = 0xF713,
+  KF17Key = 0xF714,
+  KF18Key = 0xF715,
+  KF19Key = 0xF716,
+  KF20Key = 0xF717,
+  KF21Key = 0xF718,
+  KF22Key = 0xF719,
+  KF23Key = 0xF71A,
+  KF24Key = 0xF71B,
+  KF25Key = 0xF71C,
+  KF26Key = 0xF71D,
+  KF27Key = 0xF71E,
+  KF29Key = 0xF720,
+  KF28Key = 0xF71F,
+  KF30Key = 0xF721,
+  KF31Key = 0xF722,
+  KF32Key = 0xF723,
+  KF33Key = 0xF724,
+  KF34Key = 0xF725,
+  KF35Key = 0xF726,
+  KInsertKey = 0xF727,
+  KDeleteKey = 0xF728,
+  KHomeKey = 0xF729,
+  KBeginKey = 0xF72A,
+  KEndKey = 0xF72B,
+  KPageUpKey = 0xF72C,
+  KPageDownKey = 0xF72D,
+  KPrintScreenKey = 0xF72E,
+  KScrollLockKey = 0xF72F,
+  KPauseKey = 0xF730,
+  KSysReqKey = 0xF731,
+  KBreakKey = 0xF732,
+  KResetKey = 0xF733,
+  KStopKey = 0xF734,
+  KMenuKey = 0xF735,
+  KUserKey = 0xF736,
+  KSystemKey = 0xF737,
+  KPrintKey = 0xF738,
+  KClearLineKey = 0xF739,
+  KClearDisplayKey = 0xF73A,
+  KInsertLineKey = 0xF73B,
+  KDeleteLineKey = 0xF73C,
+  KInsertCharKey = 0xF73D,
+  KDeleteCharKey = 0xF73E,
+  KPrevKey = 0xF73F,
+  KNextKey = 0xF740,
+  KSelectKey = 0xF741,
+  KExecuteKey = 0xF742,
+  KUndoKey = 0xF743,
+  KRedoKey = 0xF744,
+  KFindKey = 0xF745,
+  KHelpKey = 0xF746,
+  KModeSwitchKey = 0xF747 
+};</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ZW51bSBUS2V5TW9kaWZpZXJGbGFncwp7CiAgS0tleU1vZGlmaWVyTm9uZSAgICAgICAgICAgPSAwLAogIEtLZXlNb2RpZmllckNhcHNMb2NrICAgPSAxIDw8IDAsCiAgS0tleU1vZGlmaWVyU2hpZnQgICAgICA9IDEgPDwgMSwKICBLS2V5TW9kaWZpZXJDb250cm9sICAgID0gMSA8PCAyLAogIEtLZXlNb2RpZmllckFsdGVybmF0ZSAgPSAxIDw8IDMsCiAgS0tleU1vZGlmaWVyQ29tbWFuZCAgICA9IDEgPDwgNCwKICBLS2V5TW9kaWZpZXJOdW1lcmljUGFkID0gMSA8PCA1LAogIEtLZXlNb2RpZmllckhlbHAgICAgICAgPSAxIDw8IDYsCiAgS0tleU1vZGlmaWVyRnVuY3Rpb24gICA9IDEgPDwgNwp9Ow==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgbXBJbXBsLT5IYW5kbGVLZXlVcEV2ZW50KGV2ZW50KTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgbXBJbXBsLT5IYW5kbGVLZXlVcEV2ZW50KGV2ZW50KTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICApCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxLS2V5TW9kaWZpZXJGdW5jdGlvblw+</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxLS2V5TW9kaWZpZXJGdW5jdGlvblw+</last-pattern>
+      <last-replace>motion</last-replace>
+      <last-substitute>button</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>SetBackgroundView</entry>
+        <entry>ConnectValue</entry>
+        <entry>cursor</entry>
+        <entry>Cursor</entry>
+        <entry>Push</entry>
+        <entry>set ic</entry>
+        <entry>onmousemoveevent</entry>
+        <entry>OnMouseMoveEvent</entry>
+        <entry>OnMouse</entry>
+        <entry encoding="base64">XDxIYW5kbGVLZXlib2FyZEV2ZW50XD4=</entry>
+        <entry>DoUpdate</entry>
+        <entry encoding="base64">XDxEb1VwZGF0ZVRvdWNoRGF0YUxpc3RcPg==</entry>
+        <entry>ontouchesbeganevent</entry>
+        <entry>ontouchesbegan</entry>
+        <entry>StartEditString</entry>
+        <entry>starteditstring</entry>
+        <entry>startedittext</entry>
+        <entry>onkeydown</entry>
+        <entry>isfunctionkey</entry>
+        <entry encoding="base64">XDxLS2V5TW9kaWZpZXJGdW5jdGlvblw+</entry>
+      </history-search>
+      <history-cmd>
+        <entry>set relativenumbers</entry>
+        <entry>s</entry>
+        <entry>s/button/motion/g</entry>
+        <entry>set incsearch</entry>
+        <entry>set ic</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
